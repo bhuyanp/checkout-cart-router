@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  padding: 20px;
+}
+
+.first {
+  border-right: 1px solid gray;
+}
+
+.middle {
+  border-right: 1px solid gray;
+  border-left: 1px solid gray;
+}
+
+.last {
+  border-left: 1px solid gray;
+}
+
+.queue {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cart {
+  padding: 10px;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+}
+
+.checkoutCounters {
+  margin-top: 30px;
+  display: grid;
+
+  /* grid-auto-rows: minmax(20px, auto); */
+}
