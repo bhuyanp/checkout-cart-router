@@ -13,6 +13,8 @@ Challenge is inspired by this youtube video. https://www.youtube.com/watch?v=B9f
 
 <code>cd checkout-cart-router</code>
 
+<code>npm i</code>
+
 <code>npm run dev</code>
 
 ## Start with Vite
