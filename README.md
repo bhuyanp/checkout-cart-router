@@ -9,7 +9,7 @@ Challenge is inspired by this youtube video. https://www.youtube.com/watch?v=B9f
 <img src='./src/assets/screenshot.png'/>
 
 ## Getting started
-<code>git clone</code> 
+<code>git clone https://github.com/bhuyanp/checkout-cart-router.git</code> 
 
 <code>cd checkout-cart-router</code>
 
